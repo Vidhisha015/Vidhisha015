@@ -1,5 +1,5 @@
 <div align="center"> <h1 align="center"> I am an entry-level Data Analyst 👋 </h1> </div>
-<b> Hi there! My name is Vidhisha Sinha. I am a data professional.<b>
+<b> Hi there! My name is Vidhisha Sinha. I am a passionate data analyst and visualiser.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
