@@ -2,7 +2,7 @@
 **Vidhisha015/Vidhisha015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center"> <h1 align="center"> Hi There! I am a entry-level  Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Vidhisha Sinha. I am a data professional.<b>
+<b>Hi there, My name is Vidhisha Sinha. I am a data professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
