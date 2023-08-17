@@ -1,13 +1,10 @@
-<!--
-**Vidhisha015/Vidhisha015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align="center"> <h1 align="center"> Hi There! I am a entry-level  Data Analyst 👋 </h1> </div>
-<b>Hi there, My name is Vidhisha Sinha. I am a data professional.<b>
+<div align="center"> <h1 align="center"> Hi There! I am an entry-level Data Analyst 👋 </h1> </div>
+<b>My name is Vidhisha Sinha. I am a data professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-<b>I have an experience in using these data analysis tools.<b>
+<b>I have experience in using these data analysis tools.<b>
 
 <p align="center">
 <a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/47d61395-144d-46aa-ae82-58b259cd9b70" alt="Python" height="60"/> </a>
@@ -22,7 +19,7 @@
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
-<b>In addition, I have an experience in using these data visualization tools.<b>
+<b>In addition, I have experience in using these data visualization tools.<b>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
